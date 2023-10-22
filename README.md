@@ -15,6 +15,6 @@ this is a task for 4sale-international
 -  run ./vendor/bin/sail migrate 
 -  run ./vendor/bin/sail db:seed
 
-you now can use 
-# email # test@example.com
-# password # password
+you now can use the followig credentials for the authentication 
+### email  test@example.com
+### password  password
